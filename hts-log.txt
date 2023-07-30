@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Jul 2023 13:41:59 at https://www.bbva.es/personas.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bbva.es/personas.html -O1 "C:\My Web Sites\BBVA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:45:26	Error: 	Exit requested by shell or user
+13:45:26	Warning: 	File not added due to mirror cancel: https://www.bbva.es/en/personas/banca-online/bizum.html
+13:45:28	Warning: 	Link https://www.bbva.es/general/hazte-cliente/abrir-cuenta-bancaria-online.html not scanned (follow robots meta tag)
+13:45:34	Warning: 	Moved Temporarily for https://www.bbva.es/
+13:45:34	Warning: 	File has moved from https://www.bbva.es/ to https://www.bbva.es/personas.html
+13:45:37	Error: 	"Not Found" (404) at link https://www.bbva.es/content/dam/public-web/bbvaes/images/homes/fondo-recibos-lightMode-gal.png (from https://www.bbva.es/personas.html)
+13:45:39	Warning: 	Link https://www.bbva.es/general/hazte-cliente/abrir-cuenta-bancaria-empresas.html not scanned (follow robots meta tag)
+13:45:41	Warning: 	Link https://www.bbva.es/general/landings/digitalizacion/fomento-digitalizacion.html?int=puzle-home not scanned (follow robots meta tag)
+13:45:51	Warning: 	Link https://www.bbva.es/personas/productos/cuentas/simulador-comisiones.html not scanned (follow robots meta tag)
+13:45:54	Warning: 	Link https://www.bbva.es/general/aviso-legal.html not scanned (follow robots meta tag)
+13:45:54	Warning: 	Link https://www.bbva.es/general/cookies.html not scanned (follow robots meta tag)
+13:45:55	Warning: 	Link https://www.bbva.es/general/estadisticas.html not scanned (follow robots meta tag)
+13:45:56	Warning: 	Moved Permanently for https://www.bbva.es/productos/
+13:45:56	Warning: 	File has moved from https://www.bbva.es/productos/ to https://www.bbva.es/productos/index.jsp
+13:45:56	Warning: 	Moved Permanently for https://www.bbva.es/ficha/
+13:45:56	Warning: 	File has moved from https://www.bbva.es/ficha/ to http://www.bbva.es/ficha
+13:45:56	Warning: 	Moved Temporarily for https://www.bbva.es/ca/
+13:45:56	Warning: 	File has moved from https://www.bbva.es/ca/ to https://www.bbva.es/personas.html
+13:45:56	Warning: 	Moved Temporarily for https://www.bbva.es/en/
+13:45:56	Warning: 	File has moved from https://www.bbva.es/en/ to https://www.bbva.es/personas.html
+13:45:56	Warning: 	Moved Temporarily for https://www.bbva.es/eu/
+13:45:56	Warning: 	File has moved from https://www.bbva.es/eu/ to https://www.bbva.es/personas.html
+13:45:56	Warning: 	Moved Temporarily for https://www.bbva.es/gl/
+13:45:56	Warning: 	File has moved from https://www.bbva.es/gl/ to https://www.bbva.es/personas.html
+13:45:56	Error: 	"Not Found" (404) at link https://www.bbva.es/nimbus/release/signin.html (from https://www.bbva.es/personas.html)
+13:45:56	Warning: 	Link https://www.bbva.es/ca/general/hazte-cliente/abrir-cuenta-bancaria-online.html not scanned (follow robots meta tag)
+13:46:07	Warning: 	Link https://www.bbva.es/ca/general/hazte-cliente/abrir-cuenta-bancaria-empresas.html not scanned (follow robots meta tag)
+13:46:09	Warning: 	Link https://www.bbva.es/ca/general/landings/digitalizacion/fomento-digitalizacion.html?int=puzle-home not scanned (follow robots meta tag)
+13:46:18	Warning: 	Link https://www.bbva.es/ca/personas/productos/cuentas/simulador-comisiones.html not scanned (follow robots meta tag)
+13:46:21	Warning: 	Link https://www.bbva.es/ca/general/aviso-legal.html not scanned (follow robots meta tag)
+13:46:21	Warning: 	Link https://www.bbva.es/ca/general/cookies.html not scanned (follow robots meta tag)
+13:46:22	Warning: 	Link https://www.bbva.es/ca/general/estadisticas.html not scanned (follow robots meta tag)
+13:46:24	Warning: 	Link https://www.bbva.es/en/general/hazte-cliente/abrir-cuenta-bancaria-online.html not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 32 seconds : 437 links scanned, 427 files written (45282219 bytes overall) [13028017 bytes received at 47897 bytes/sec], 41505091 bytes transferred using HTTP compression in 377 files, ratio 16%, 32.6 requests per connection
+(3 errors, 30 warnings, 0 messages)
